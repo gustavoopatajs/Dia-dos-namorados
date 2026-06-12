@@ -73,7 +73,7 @@ const quizData = [
   },
   {
     q: "O que o Gustavo faz que a Samira acha mais fofo?",
-    opts: ["Manda bom dia todo dia", "Se declara do nada e demonstra tudo", "Cuida dela igual a uma princesa", "Canta desafinado para ela"],
+    opts: ["Mandar bom dia todos dia", "Se declarar do nada e demonstrar todo o amor dele por vc", "Cuidar dela igual a uma princesa", "Canta desafinado para ela"],
     correct: 1,
     feedback: "As declarações mostram o amor dele por você! 🥰"
   },
